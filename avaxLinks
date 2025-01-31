@@ -1,0 +1,11 @@
+To get the test net Go to this link: 
+https://build.avax.network/docs/dapps/smart-contract-dev/get-test-funds
+
+
+To get into Avalanche Fuji Testnet network in metamask/adding custom network 
+
+Network Name: Avalanche Fuji Testnet
+New RPC URL:https://api.avax-test.network/ext/bc/C/rpc
+Chain ID: 43113
+Currency Symbol: AVAX
+Block Explorer URL:https://testnet.snowtrace.io
